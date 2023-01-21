@@ -1,0 +1,4 @@
+Lot1/Clean cln
+Lot1/Spam inf
+Lot2/Clean cln
+Lot2/Spam inf
