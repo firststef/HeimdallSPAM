@@ -17,3 +17,5 @@ This work was graded :
 | 3 | Heimdall SPAM | 3.0 | 99.59 | 0.98 | 97.64 | 0 | 97.64 |
 
 Score is Det - 2*FP - Time
+
+Training data not provided.
